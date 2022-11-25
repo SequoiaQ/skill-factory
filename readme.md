@@ -2,6 +2,8 @@
 
 LICENCE: [MIT](./license.md)
 
+![git-logo](./assets/git-logo.png)
+
 ---
 
 ---
